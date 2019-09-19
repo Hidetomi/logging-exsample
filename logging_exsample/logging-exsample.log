@@ -1,0 +1,6 @@
+2019/09/19 23:56:31 INFO - 9684--log_main.py#main:14: sub
+2019/09/19 23:56:31 WARNING - 9684--log_main.py#main:15: sub
+2019/09/19 23:56:31 ERROR - 9684--log_main.py#main:16: sub
+2019/09/19 23:56:31 INFO - 9684--sub.py#print_log:8: sub
+2019/09/19 23:56:31 WARNING - 9684--sub.py#print_log:9: sub
+2019/09/19 23:56:31 ERROR - 9684--sub.py#print_log:10: sub
